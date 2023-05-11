@@ -1,6 +1,3 @@
-# E-Commerce Reviews Analysis with Machine Learning
-# By Sangeetha Priya RE
-
 import matplotlib.pyplot as plt
 import nltk
 import numpy as np
@@ -13,10 +10,10 @@ from tkinter import filedialog as fd
 from tkinter.messagebox import showinfo
 
 window = tk.Tk()
-window.title('Sangeetha Priya RE - E-Commerce Review Processing By pairwise ranking and sentiment analysis')
+window.title('E-Commerce Review Processing By pairwise ranking and sentiment analysis')
 Name = tk.Label(text="Select The DataSet")
 Name1 = tk.Label(text="E-Commerce Review Processing By pairwise ranking and sentiment analysis")
-Name2 = tk.Label(text="By Sangeetha Priya RE")
+Name2 = tk.Label(text="By Kheshore JR")
 Name1.pack()
 Name2.pack()
 Name.pack()
